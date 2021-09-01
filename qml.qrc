@@ -3,5 +3,11 @@
         <file>main.qml</file>
         <file>images/qt-logo.png</file>
         <file>images/arrow.png</file>
+        <file>pages/ButtonPage.qml</file>
+        <file>icons/gallery/index.theme</file>
+        <file>icons/gallery/20x20/back.png</file>
+        <file>icons/gallery/20x20/drawer.png</file>
+        <file>icons/gallery/20x20/menu.png</file>
+        <file>pages/ScrollablePage.qml</file>
     </qresource>
 </RCC>
