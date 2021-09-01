@@ -9,5 +9,6 @@
         <file>icons/gallery/20x20/drawer.png</file>
         <file>icons/gallery/20x20/menu.png</file>
         <file>pages/ScrollablePage.qml</file>
+        <file>pages/CheckBoxPage.qml</file>
     </qresource>
 </RCC>
